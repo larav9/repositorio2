@@ -1,0 +1,8 @@
+config.txt
+#va a ignorar este archivo de texto específico en cualquier parte del proyecto
+
+# ignora la carpeta llamada "img" y todo lo de adentro
+img/
+
+# ignora cualquier archivo, sin importar su nombre, que termine con la extensión .log
+*.log
